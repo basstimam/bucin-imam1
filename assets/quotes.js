@@ -1,5 +1,5 @@
 // prettier-ignore
 export default [
-    { author: "imam", quotes: "I always thinkin' about u every morning" },
+    { author: "imam", quotes: "I always thinkin' about u every morning, ilysm♡" },
   
 ];
