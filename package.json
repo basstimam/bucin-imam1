@@ -2,7 +2,7 @@
   "name": "greet",
   "version": "1.0.0",
   "description": "ILY",
-  "author": "Brian",
+  "author": "Imam",
   "private": true,
   "scripts": {
     "dev": "nuxt",

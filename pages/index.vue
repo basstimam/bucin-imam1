@@ -25,7 +25,11 @@
     />
 
     <!-- Audio file -->
-    <audio src="../assets/music.ogg" autoplay controls loop />
+    
+    
+    
+    
+    
 
     <!-- Main -->
     <div class="main">
@@ -155,8 +159,13 @@ export default {
     random: function(arr) {
       return arr[Math.floor(Math.random() * arr.length)];
     }
-  }
-};
+  },
+
+
+
+  // Metode dan properti lainnya di sini
+}
+
 </script>
 
 <style lang="scss">

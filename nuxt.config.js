@@ -11,14 +11,14 @@ export default {
   head: {
     // titleTemplate: "%s - " + process.env.npm_package_name,
     // title: process.env.npm_package_name || "",
-    title: "heyyy",
+    title: "heyyy love!",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" },
       { hid: "description", name: "description", content: process.env.npm_package_description || "" }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "icon", type: "image/x-icon", href: "/icon.png" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Lilita+One&family=Montserrat&display=swap" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Pacifico&display=swap" }
     ]
